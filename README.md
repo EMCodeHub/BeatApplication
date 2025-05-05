@@ -42,7 +42,7 @@ Ensure you have the following installed:
     ```
 4. Run the application:
     ```bash
-    npm start
+    npm run dev
     ```
     This will start a development server and open the application in your default web browser. The application should now be accessible at `http://localhost:3000`.
 
