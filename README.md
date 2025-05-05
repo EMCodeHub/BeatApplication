@@ -44,7 +44,7 @@ Ensure you have the following installed:
     ```bash
     npm run dev
     ```
-    This will start a development server and open the application in your default web browser. The application should now be accessible at `http://localhost:3000`.
+    This will start a development server and open the application in your default web browser. The application should now be accessible at `http://localhost:5174`.
 
 ## Components
 
